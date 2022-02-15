@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: practice.pdf
-type: OCWFile
 uid: 6ec374d7-b1a8-3fb6-8d6e-ec2360381d2f
 ---

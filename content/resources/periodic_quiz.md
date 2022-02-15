@@ -11,6 +11,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: periodic_quiz.pdf
-type: OCWFile
 uid: 86f15e1d-b5b7-f6da-8897-f7ecb86b05f1
 ---
