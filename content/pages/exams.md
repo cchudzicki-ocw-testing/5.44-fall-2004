@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Exams section includes a quiz on the periodic table. It also includes
+  an exam and a final exam.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

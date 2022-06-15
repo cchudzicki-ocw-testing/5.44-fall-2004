@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Assignments section includes 3 problem sets and practice problems for
+  the students.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
