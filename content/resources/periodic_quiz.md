@@ -7,6 +7,7 @@ file: /courses/5-44-organometallic-chemistry-fall-2004/86f15e1db5b7f6da8897f7ecb
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
